@@ -3,11 +3,11 @@
 header("Content-Type: text/html; charset=UTF-8");
 
 // SQL Server setup
-$serverName = "192.168.5.253";
+$serverName = "";
 $connectionOptions = [
-    "Database" => "GTDBSLTL",
-    "Uid" => "sa",
-    "PWD" => "abcd@abcd",
+    "Database" => "",
+    "Uid" => "",
+    "PWD" => "",
     "CharacterSet" => "UTF-8"
 ];
 
